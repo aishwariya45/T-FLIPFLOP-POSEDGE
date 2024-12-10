@@ -10,6 +10,9 @@ Quartus prime
 
 **THEORY**
 
+![image](https://github.com/user-attachments/assets/5ac45174-5293-40da-8d73-23194de214d5)
+
+
 **T Flip-Flop**
 
 T flip-flop is the simplified version of JK flip-flop. It is obtained by connecting the same input ‘T’ to both inputs of JK flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of T flip-flop is shown in the following figure.
@@ -28,8 +31,18 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
+1.	Type the program in Quartus software.
 
+2.	Compile and run the program.
+
+3.	Generate the RTL schematic and save the logic diagram.
+
+4.	Create nodes for inputs and outputs to generate the timing diagram.
+
+5.	For different input combinations generate the timing diagram.
+
+
+   
 **PROGRAM**
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:AISHARIYA S RegisterNumber:24900840
