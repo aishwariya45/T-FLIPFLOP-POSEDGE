@@ -10,7 +10,6 @@ Quartus prime
 
 **THEORY**
 
-![image](https://github.com/user-attachments/assets/5ac45174-5293-40da-8d73-23194de214d5)
 
 
 **T Flip-Flop**
